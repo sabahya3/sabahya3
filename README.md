@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed El Sabahy</h1>
 <h3 align="center">A passionate full stack mobile developer from Egypt</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabahya3&label=Profile%20views&color=0e75b6&style=flat" alt="sabahya3" /> </p>
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabahya3&label=Profile%20views&color=0e75b6&style=flat" alt="sabahya3" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabahya3" alt="sabahya3" /></a> </p>
 
