@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed El Sabahy</h1>
 <h3 align="center">A passionate full stack mobile developer from Egypt</h3>
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabahya3&label=Profile%20views&color=0e75b6&style=flat" alt="sabahya3" /> </p>
 
@@ -7,9 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
+
 
 - 🌱 I’m currently learning **.Net**
 
