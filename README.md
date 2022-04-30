@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed El Sabahy</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate full stack mobile developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabahya3&label=Profile%20views&color=0e75b6&style=flat" alt="sabahya3" /> </p>
 
@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmed el-sabahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed el-sabahy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ahmed sabahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmed sabahy" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed elsabahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed elsabahy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/programming army" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programming army" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-el-sabahy-b2396a221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-el-sabahy-b2396a221" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14583427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14583427" height="30" width="40" /></a>
+<a href="https://fb.com/100008291692918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100008291692918" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucfoddbvop66jqp3kin2w0hw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfoddbvop66jqp3kin2w0hw" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sabahya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sabahya3" height="30" width="40" /></a>
 </p>
 
