@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/ahmed-el-sabahy-b2396a221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-el-sabahy-b2396a221" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14583427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14583427" height="30" width="40" /></a>
 <a href="https://fb.com/100008291692918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100008291692918" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/programming army" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programming army" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c//channel/ucfoddbvop66jqp3kin2w0hw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/channel/ucfoddbvop66jqp3kin2w0hw" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sabahya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sabahya3" height="30" width="40" /></a>
 </p>
 
