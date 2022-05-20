@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **..**
 
 - 💬 Ask me about **Flutter and Dart**
 
